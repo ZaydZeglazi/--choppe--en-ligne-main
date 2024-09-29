@@ -8,7 +8,7 @@
 
 - **Frontend :**
   - React
-  - Redux (si utilisé)
+  - Redux
   - CSS / Bootstrap
 
 - **Backend :**
