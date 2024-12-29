@@ -12,8 +12,8 @@
   - CSS / Bootstrap
 
 - **Backend :**
-  - .NET Core
-  - Entity Framework Core
+  - JAVA
+  - Spring boot
   - SQL Server (ou autre base de données)
 
 ## Fonctionnalités
