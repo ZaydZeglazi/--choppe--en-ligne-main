@@ -2,7 +2,8 @@
 
 ## Description
 
-Échoppe-en-ligne-main est une application de boutique en ligne développée avec .NET pour le backend et React pour le frontend. Ce projet vise à offrir une plateforme simple et efficace pour les artisans afin de vendre leurs produits faits main.
+Échoppe-en-ligne-main est une application de boutique en ligne développée avec Spring Boot (Java) pour le backend et React pour le frontend.
+Ce projet a pour objectif d’offrir une plateforme simple et efficace permettant aux artisans de vendre leurs produits faits main en ligne.
 
 ## Technologies utilisées
 
